@@ -1,0 +1,7 @@
+streamlit
+fastapi
+uvicorn
+transformers
+neo4j
+python-dotenv
+requests
