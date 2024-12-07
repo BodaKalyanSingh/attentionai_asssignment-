@@ -21,32 +21,8 @@ Streamlit for an interactive chat-based user interface.
 Additional Tools:
 OpenWeather API for weather forecasts.
 Google Maps API for map generation (optional).
-📦 Project Structure
-csharp
-Copy code
-├── backend/
-│   ├── main.py         # FastAPI server
-│   ├── agents/
-│   │   ├── itinerary_agent.py
-│   │   ├── weather_agent.py
-│   │   ├── memory_agent.py
-│   │   └── optimization_agent.py
-│   └── utils/
-│       ├── database.py
-│       ├── weather_api.py
-│       └── maps_api.py
-├── frontend/
-│   ├── app.py          # Streamlit application
-│   ├── static/
-│   │   ├── styles.css
-│   │   └── assets/
-│   └── templates/
-│       └── index.html
-├── data/
-│   └── initial_graph_data.json  # Initial Neo4j graph data
-├── requirements.txt   # Python dependencies
-├── README.md          # Project documentation
-└── LICENSE            # Licensing information
+
+
 🛠️ Setup Instructions
 1. Clone the Repository
 bash
